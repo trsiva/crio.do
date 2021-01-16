@@ -1,2 +1,2 @@
 # crio.do
-Crio.do learning and doing projects
+Crio.do - A way of learning by doing projects
